@@ -2,6 +2,8 @@
 
 This document contains some directions and context around the workshop material.
 
+youtube link https://www.youtube.com/watch?v=Xq-t7y4OrFE
+
 ## Requirements
 **Tools:**
  - `node.js` (https://nodejs.org) (12+, ideally 14+)
